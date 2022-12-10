@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<component>
+		<handler>
+			 <configuration>
+				    <item>
+					    <ajax>
+						    <Identifications>
+							     <handler type="storageType" section="alt">
+								     <path>
+									     <mconfig>
+										      <intent-filter>
+											       <application>
+												        <manifest>
+													         <item>dllmap.ajax+2x/intent</item>
+													    </manifest>
+													</application>
+										     </intent-filter>
+										</mconfig>
+								   </path>
+								</handler>
+								  <activities>
+									   <compositions>
+										      <activities Native="" itemingScoper="">
+											      <boolean lean="1">
+										</compositions>
+								  </activities>
+						    </Identification>
+						</ajax>
+					</item>
+			  </boolean>
+		  </configuration>
+	</component>
+</xml>
